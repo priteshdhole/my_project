@@ -1,0 +1,107 @@
+@charset "ISO-8859-1";
+
+.loginform 
+{
+	border: 6px double grey;
+	border-radius: 5px;
+	text-align: center;
+	margin-top:25px;
+}
+.loginform .row
+{
+	margin: 20px;
+}
+
+.loginhead
+{
+	margin:29px 0px;
+	text-align: center;
+	
+}
+.buton
+{
+	text-align: center;
+	margin-top: 10px;
+	    margin-bottom: -15px;
+   		 margin-top: 40px;
+}
+.btv
+{
+	margin-top: 2px;
+}
+.bt
+{
+    width: 255px;
+    border-radius: 23px;
+    margin-bottom: 0px;
+}
+
+.tc
+{
+	font-size: 11px;
+}
+.tc a
+{
+	text-decoration: none;
+}
+.foot
+{
+	text-align: center;
+	background-color: black;
+	color: white;
+}
+form
+{
+	height: auto;
+}
+.menubar 
+{
+	margin-top: 40px;
+	padding:2px;
+}
+.menubar a
+{
+text-decoration: none;
+text-align: center;
+margin: 0px 3px;
+color:#9b8b07;
+}
+.menubar button a
+{
+text-decoration: none;
+text-align: center;
+margin: 0px 3px;
+color:black;
+}
+.menubar a:hover
+{
+background-color:#e3d87d;
+padding:4px;
+border-radius: 13px;
+color: white;
+}
+.menubar button a:hover
+{
+background-color:#0000;
+padding:0px;
+border-radius: 0px;
+color: black;
+}
+.menubar button 
+{
+ 	background-color: red;
+    color: white;
+    border-radius: 10px;
+}
+.scs
+{
+	color: blue;
+}
+.serror
+{
+	color: red;
+	font-size:14px;
+	text-align: left;
+	padding-top: 8px;
+	
+}
